@@ -1,5 +1,6 @@
 Plugin Manager
 ===================
+![image](https://github.com/user-attachments/assets/0abc09a3-8a92-47d0-9998-d73c7ae36ab9)
 
 ![](images/a-plugin-man-overview.png)
 
